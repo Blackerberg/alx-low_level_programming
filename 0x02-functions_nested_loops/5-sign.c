@@ -28,9 +28,3 @@ int print_sign(int n)
 	}
 	_putchar('\n');
 }
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
