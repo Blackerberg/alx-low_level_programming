@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * was not asked for comment
+ * main - this is the program's entry
+ *
+ * return: 0
  */
 
 int main(void)
