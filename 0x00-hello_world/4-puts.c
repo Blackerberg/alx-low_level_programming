@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /*
+ * main - Entry point
  *
- * This program main ends with the value 0
+ * this program ends with the value 0
  *
  */
 int main(void)
