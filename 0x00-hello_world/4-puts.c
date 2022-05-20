@@ -2,7 +2,7 @@
 
 /*
  *
- * This program ends with the value 0
+ * This program main ends with the value 0
  *
  */
 int main(void)
@@ -10,7 +10,6 @@ int main(void)
 {
 
 	puts("\"Programming is like building a multilingual puzzle");
-	
 	return (0);
 
 }
