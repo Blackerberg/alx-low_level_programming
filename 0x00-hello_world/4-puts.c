@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * this program ends with the value 0
+ * Return: always 0 (Success)
  *
  */
 int main(void)
