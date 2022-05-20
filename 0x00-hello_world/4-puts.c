@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-
+/*
+ *
+ * This program ends with the value 0
+ *
+ */
 int main(void)
 
 {
